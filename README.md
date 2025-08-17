@@ -5,13 +5,13 @@ A clean desktop weather app built with Python and PyQt5 that fetches real‑time
 
 ✨ Features
 
-Search weather by city (metric °C)
+- Search weather by city (metric °C)
 
-Clear emoji for conditions (☀️, 🌧️, ⛈️, ❄️, 🌫️, ☁️)
+- Clear emoji for conditions (☀️, 🌧️, ⛈️, ❄️, 🌫️, ☁️)
 
-Robust error messages for bad input/network/API issues
+- Robust error messages for bad input/network/API issues
 
-Keyboard: press Enter to search
+- Keyboard: press Enter to search
 
 # Tech Stack
 
