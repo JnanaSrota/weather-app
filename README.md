@@ -42,7 +42,7 @@ pytest + GitHub Actions (tests/CI)
 - Secure API key management via .env
 
 
-🪪 License
+# 🪪 License
 
 MIT — see LICENSE.
 
