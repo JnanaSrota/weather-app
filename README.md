@@ -21,9 +21,9 @@ A clean desktop weather app built with Python and PyQt5 that fetches real‑time
 
 - requests (HTTP)
 
-python-dotenv (config)[skipped for simplicity]
+- python-dotenv (config)[skipped for simplicity]
 
-pytest + GitHub Actions (tests/CI)
+- pytest + GitHub Actions (tests/CI)
 
 # Screenshots
 - Image 1
