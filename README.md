@@ -1,7 +1,4 @@
 # weather-app
-Python app that fetches and displays weather data from an API.
-📄 README.md
-
 Weather App (PyQt5 + OpenWeatherMap)
 
 A clean desktop weather app built with Python and PyQt5 that fetches real‑time weather from OpenWeatherMap. 
